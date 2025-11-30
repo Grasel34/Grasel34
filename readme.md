@@ -8,21 +8,10 @@
 
 ### 💻 Sobre mim
 
-🎓 Estudante de Ciência da Computação na Universidade La Salle  
 💡 Desenvolvedor Full Stack com foco em aplicações web escaláveis e APIs de alta performance  
 🧠 Estudando Estruturas de Dados, Algoritmos e Inteligência Artificial  
 🔍 Interesse especial em automação, segurança ofensiva e aprendizado de máquina  
-🔧 Stack principal: **Node.js**, **Express.js**, **React**, **MongoDB**
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-- 🚀 JavaScript, Python, HTML, CSS
-- 🛠️ Node.js, Express.js, React, Tailwind CSS
-- 🧩 MongoDB, Firebase, JWT, Bcrypt
-- ⚙️ Git, GitHub, Vercel, Render, Docker
-- 🖥️ Arch Linux, Neovim, CLI-based Workflow
 
 ---
 
