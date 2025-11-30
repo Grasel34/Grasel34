@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Full Stack Developer | Apaixonado por tecnologia 🚀
+  Estudante de Ciência da Computação | Full Stack Developer | Apaixonado por tecnologia 
 </p>
 
 ---
